@@ -1,0 +1,163 @@
+CSE Department Faculty Members
+Search...
+
+Gaurav Harit
+Professor
+emailgharit[at]iitj[dot]ac[dot]in
+call0291 280 1253
+schoolPhD. Indian Institute of Technology Delhi
+Image and Video Analysis
+
+Mayank Vatsa
+Professor
+emailmvatsa[at]iitj[dot]ac[dot]in
+call0291 280 1266
+schoolPhD. West Virginia University
+Computer Vision; Machine Learning; Deep Learning; Biometrics; Trusted AI
+
+Richa Singh
+Professor
+emailricha[at]iitj[dot]ac[dot]in
+call0291 280 1267
+schoolPhD. West Virginia University
+Machine Learning; Pattern Recognition; Biometrics; Forensics; Trusted AI
+
+Avinash Sharma
+Associate Professor
+emailavinashsharma[at]iitj[dot]ac[dot]in
+call0291 280 1275
+schoolPhD. INRIA Rhone-Alpes, France
+3D Computer Vision (Human Digitization and Terrain Modelling); Geometry Processing; Graph Spectral Analysis; Applied ML for CogSci/Robotics/GIS
+
+Debasis Das
+Associate Professor
+emaildebasis[at]iitj[dot]ac[dot]in
+call0291 280 1261
+schoolPh.D: Indian Institute of Technology, Patna
+Vehicular Ad-Hoc Networks (VANETs) / V2X systems, Artificial Intelligence (AI), Urban Intelligence, Distributed Deep Learning, Cryptography, and blockchain security
+
+Deepak Mishra
+Associate Professor
+emaildmishra[at]iitj[dot]ac[dot]in
+call0291 280 1262
+schoolPhD. Indian Institute of Technology Delhi
+Machine Learning; Medical Image Analysis; Biomedical Circuits and Systems; Polarization Imaging
+
+Dip Sankar Banerjee
+Associate Professor
+emaildipsankarb[at]iitj[dot]ac[dot]in
+call0291 280 1272
+schoolPhD. International Institute of Information Technology Hyderabad
+High Performance Computing; Computer Architecture; Data Analytics
+
+Pallavi Jain
+Associate Professor
+emailpallavi[at]iitj[dot]ac[dot]in
+call0291 280 1270
+schoolPhD. Dayalbagh Educational Institute (Deemed University)
+Parameterized Complexity and Algorithms; Kernelization; Computational Social Choice Theory; Graph Algorithms
+
+Suchetana Chakraborty
+Associate Professor
+emailsuchetana[at]iitj[dot]ac[dot]in
+call0291 280 1273
+schoolPhD. Indian Institute of Technology Guwahati
+Wireless sensor and mobile ad hoc networks; Distributed Systems; Ubiquitous Computing; Edge Computing and IoT
+
+Sumit Kalra
+Associate Professor
+emailsumitk[at]iitj[dot]ac[dot]in
+call0291 280 1259
+schoolPhD. Indian Institute of Technology Kanpur
+Software Architecture; Data Analytics; IoT; Smart Healthcare
+
+Yashaswi Verma
+Associate Professor
+emailyashaswi[at]iitj[dot]ac[dot]in
+call0291 280 1260
+schoolPhD. International Institute of Information Technology Hyderabad
+Applied Machine Learning; Computer Vision
+
+Anand Mishra
+Assistant Professor
+emailmishra[at]iitj[dot]ac[dot]in
+call0291 280 1264
+schoolPhD. International Institute of Information Technology Hyderabad
+Computer Vision; Deep Learning; Knowledge Graph; Multimodal Machine Learning
+
+Angshuman Paul
+Assistant Professor
+emailapaul[at]iitj[dot]ac[dot]in
+call0291 280 1274
+schoolPhD. Indian Statistical Institute Kolkata
+Synthesis and Analysis of Medical Images; Deep Learning; Computer Vision
+
+Hardik Jain
+Assistant Professor
+emailhardik[dot]jain[at]iitj[dot]ac[dot]in
+call0291 280 1276
+schoolPhD. Technical University Berlin, Germany
+3D Computer Vision, Edge AI, VR/AR Visualization
+
+Mohit Kumar Jangid
+Assistant Professor
+emailmjangid[at]iitj[dot]ac[dot]in
+call0291 280 1271
+schoolThe Ohio State University, Columbus, USA
+Automated Formal Verification; System Security and Privacy; Trusted Execution Environment; Cryptography and Protocol Design
+
+Nitin Awathare
+Assistant Professor
+emailnitina[at]iitj[dot]ac[dot]in
+call0291 280 1280
+schoolPhD. Indian Institute of Technology, Bombay
+Distributed Systems; Blockchain; Payment Channel Network; System Architecture
+
+Palash Das
+Assistant Professor
+emailpalashdas[at]iitj[dot]ac[dot]in
+call0291 280 1256
+schoolPhD. Indian Institute of Technology Guwahati
+Computer Architecture; Near-Memory Processing; Hardware Designing; Machine Learning Accelerators
+
+Pratik Mazumder
+Assistant Professor
+emailpratikm[at]iitj[dot]ac[dot]in
+call0291 280 1255
+schoolPhD. Indian Institute of Technology Kanpur
+Few-Shot Learning; Zero-Shot Learning; Incremental Learning; Deep Learning; Computer Vision; Machine Learning
+
+Romi Banerjee
+Assistant Professor
+emailromibanerjee[at]iitj[dot]ac[dot]in
+call0291 280 1269
+schoolPhD. Calcutta University, Indian Statistical Institute
+Embodied Cognitive Architectures; Artificial General Intelligence; Computing with Words; Natural Language Understanding
+
+Sidharth Sharma
+Assistant Professor
+emailsidharth[at]iitj[dot]ac[dot]in
+call0291 280 1258
+schoolIndian Institute of Technology Bombay
+Network Systems for AI at Scale; Self-Optimizing and Resilient Networks; Network Softwarization and Management; Performance Modelling
+
+Susil Kumar Mohanty
+Assistant Professor
+emailsusilmohanty[at]iitj[dot]ac[dot]in
+call0291 280 1281
+schoolPh.D. : Indian Institute of Technology Patna
+Blockchain and Off-chain Technologies, Payment Channel Networks, Cybersecurity and Privacy, Applied Cryptography, Zero-Knowledge Proofs, Decentralized & Secure AI/ML
+
+Tanmay Inamdar
+Assistant Professor
+emailtaninamdar[at]iitj[dot]ac[dot]in
+call0291 280 1268
+schoolPhD. The University of Iowa
+Approximation Algorithms; Computational Geometry; Parameterized Complexity; Graph Algorithms
+
+Vimal Raj Sharma
+Assistant Professor
+emailvimalraj[at]iitj[dot]ac[dot]in
+call0291 280 1257
+schoolPhD. Indian Institute of Technology, Kanpur
+Complexity Theory; Graph Algorithms; Theoretical Computer Science

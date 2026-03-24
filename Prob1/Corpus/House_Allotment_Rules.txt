@@ -1,0 +1,725 @@
+House Allotment Rules
+for Employees of IIT Jodhpur
+MGC ericec Mical|
+Indian Institute of Technology Jodhpur
+May 2017
+Table of Contents
+page
+Scope 5
+Definitions 7
+1. BASICS 9
+1.1 | Types of Houses, Living Area, Grade Pay, and License Fee 9
+1.2 | House Allotment Committee 10
+1.3 | Period of Retention 11
+1.4 | Code of Conduct of Allotees 12
+2. ELIGIBILITY 13
+2.1 | Eligibility fora House on Campus 13
+2.2 | Eligibility of Employees Owning House 13
+2.3 | Condition of Allotment and Rules of Occupancy 13
+2.4 | Seniority and Eligibility Criteria 15
+3. PROCESS 17
+3.1 | Normal Allotment 17
+3.2 | Out of Turn Allotment 18
+3.3 | Forfeiture of Allotment 18
+3.4 | Rejection of Allotment 19
+3.5 | Allotment to Employees Married to Each Other 19
+4. SPECIAL SITUATIONS 21
+4.1 | Exemption of License Fee - cum - Rent 21
+4.2 | Relaxation of Rules 21
+5. MAINTAINENANCE 23
+5.1 | Upkeep and Cleaning 23
+5.2 | Alterations and Modifications 23
+6. VIOLATIONS 25
+6.1 | Overstay 25
+6.2 | Unauthorized Occupation 26
+6.3 | Breach of Rules and Conditions 27
+6.4 | Punitive Actions 28
+6.5 | Sub-letting 28
+6.6 | Housing Allotment Disciplinary Action Committee 28
+7- RESOLUTION OF MATTERS 29
+7.1 | Appellate Authority 29
+7.2 | Rules, Procedures and Matters not covered 29
+Scope
+These rules shall be read as House Allotment Rules 2017. Further, these rules shall be:
+(a) Effective from the date of notification by the Institute;
+(b) Apply to all Employees of the Institute and others eligible for residential accommodation
+within the Permanent Campus of IIT Jodhpur; and
+(c) Supersede all the earlier rules released by the Institute so far.
+These rules shall be reviewed in 2 years from the date it comes into force, unless otherwise
+circumstances compel and earlier review. Any addition or amendment suggested shall
+come into force only after the approval of the Board of Governors of the Institute.
+Definitions
+For the purpose of these House Allotment Rules and better understanding, unless
+otherwise stated in individual occasions, the following terms shall have the meaning as
+stated hereunder:
+Term Meaning
+Allotment Grant of license to occupy a residential accommodation in
+accordance with the provision of these House Allotment Rules
+Allottee Employee to whom the residential accommodation is allotted
+HAC House Allotment Committee, duly appointed by the Institute
+HARs Housing Allotment Rules
+Director Chief Academic and Administrative Officer of the Institute
+Grade Pay (GP) | Payment (as per Rules of 6CPC) associated with level of employment
+as granted to an Employee of the Institute
+Academic Grade | Grade Pay (as per Rules of 6CPC) as granted to a Faculty Member of
+Pay (AGP) the Institute
+Entitlement Highest type of accommodation that an employee is eligible under
+these rules
+Family Spouse, children, step children, legally adopted children, parents,
+brothers and sisters, who ordinarily reside with and who are
+dependent on the Employee
+Institute Indian Institute of Technology Jodhpur
+License Fee Sum of money payable on monthly basis as compensation for
+occupation of a residential accommodation allotted under these
+rules. It includes License Fee as per Government of India rules.
+Subletting Sharing accommodation by an Allottee with another person with or
+without any payment by such other person, but it doesn’t include any
+permitting to share accommodation with:
+(1) close relation(s) of the Allottee,
+(2) Guest(s) visiting the Allottee, or
+(3) Others, and as may be notified by the Institute from time to time
+Type Sizes of accommodation to which an employee is eligible under
+these rules
+1.
+Basics
+This chapter provides primary information related to houses on the Permanent
+Campus of IIT Jodhpur.
+1.1 Types of Houses, Living Area, Grade Pay, and License Fee
+The houses permissible for allocation to persons with different Grade Pay are given as
+under:
+S.No. | Group of Employee House Living Area GP AGP
+Type (m2) (Rs.) (Rs.)
+1 Group A Type A 250] 10,000 | HAG 12,000
+2 (Faculty Members & Staff Members) Type B 200 8,900 10,000
+3 8,700 9,000
+4 7,600 8,000
+5 6,600 7,000
+6 5,400 6,000
+7 _| Group B TypeC 100 4,800
+8 (Staff Members) 4,600
+9 4,200
+10 Group C 2,800
+11 | (Staff Members) 2,400
+12 2,000
+& less
+13_| Visiting Faculty Members VFMH 60
+14 | Project Staff Members PSMH 40
+15 | Married Students MSH 40
+The associated Rules, which are related to allotment of different houses, are:
+(1) License Fee: It is a flat-rate monthly charge payable to the Institute by the Allottee for the
+unfurnished residential accommodation made available by the Institute, as per the charges duly
+approved by the Institute. This charge shall be based on Living Area. And, it shall be different for
+the employees and outside organizations. When rent free accommodation is admissible to some
+employees, the same procedure will be followed, even though license fee will not be payable to
+the person. It shall include charges towards Common Services, which may include providing
+Lighting in Staircases and Common Areas, running the Lifts, and collecting & disposing Solid
+Waste. This fee will be reviewed annually.
+(2) House Rent Allowance (HRA): It is a payment made to each Employee each month, which comes
+under the purview of the Allowances (other than Salary), as determined by the Government of
+India from time to time.
+(3) Additional Charges: These are monthly charges to be paid by the Allottee, in addition to the
+License Fee. It consists of two parts, namely:
+(a) Water Charges
+Water service includes provision of water to each House. A flat-rate monthly charge or as
+per consumption basis (on metering), as the case may be, for such service shall be payable by
+each Allottee to the Institute; and
+(b) Electricity Charges
+Electricity service includes provision of electrical power to each House. A monthly charge
+as per consumption basis (on metering) subject to a minimum consumption charges plus a
+monthly fixed charge/meter rent, for such service shall be payable by each Allottee to the
+Institute. The unit charges shall be determined separately, if the power supply is provided
+using back-up generators.
+(4) Specific Requirements: These are aspects that need to be complied with by each Allottee. These
+include:
+(a) The charges listed under items (1), (2) and (3) shall be determined from time to time by the
+Office of Infrastructure Engineering, duly approved by the Competent Authority, and intimated
+to all Employees of the Institute.
+(b) The said charges will be deducted from the monthly salary of individual Allottee.
+(c) The Institute may identify, from time to time, other charges that are payable by the Allottee to
+the Institute duly approved by Competent Authority; the same will be intimated to all
+Employees of the Institute.
+(d) Furnishings: These are items that make the house functional. The Institute will provide only
+unfurnished houses to the Allottee, and all furnishings required for personal stay should be
+arranged by the Allottee;
+(e) As per the Master Plan of the Permanent Campus of IIT Jodhpur, no Allottee shall be provided
+with any personal gardening space. And, the Allottees shall not be charged for Horticulture &
+Gardening in common areas, which will be arranged by the Institute;
+(f) In special cases (such as providing furniture, appliances, or fixtures in Visiting Faculty
+Housing, if any, as per the policy of the Institute), additional rent is payable to the Institute
+by an Allottee for the said conveniences, which shall be determined by the Office of
+Infrastructure Engineering, duly approved by the Competent Authority.
+1.2 House Allotment Committee
+The committee responsible for allotment of Houses, hereinafter called the House Allotment
+Committee (HAC), shall be constituted by the Director with the following nominated members with
+tenure of two (02) years.
+(1) A Faculty Member : Chairman
+(2) A Faculty Member : Member
+(3) A Staff Member (Group B) : Member
+(4) A Staff Member (Group A) : Member
+(5) Estate Officer : Member-Secretary
+The functions of the HAC are:
+(1) Allot residences on campus under these rules;
+(2) Recommend to the Director allotments in accordance with the provisions of these rules;
+(3) Consider requests for out-of-turn allotment and make suitable recommendations in appropriate
+cases for approval of the Director;
+(4) Ensure proper utilization of the residences;
+(5) Cancel allotment and recommend penal action against an Allottee, who breaches the HARs; and
+(6) Consider and decide all other matters related to the Institute residences.
+10
+An appeal may be made to the Director through the Chairman, House Allotment Committee, against a
+decision of the HAC. Such an appeal shall be submitted to the Chairman, House Allotment Committee,
+within seven (07) days from the receipt of such decision from HAC. On receiving the appeal along
+with the observations and recommendations of the Chairman, House Allotment Committee, the
+Director shall exercise the power to resolve such appeals; the decision of the Director shall be final
+and binding on the Allottee.
+1.3 Period of Retention
+The allotment shall be effective from the date on which possession thereof is taken by the
+Employee. Further;
+(1) The period of retention of a House shall be till the date of allotment, but expires as given
+hereunder:
+(a) The concessional period expires, which is permissible under these HARs, as under:
+S.No. | Event Permitted | Conditions / Remark
+Period
+1 | On proceeding to take up 12 Any period beyond 12 months,
+employment, elsewhere with the months | requires specific approval of
+permission of Competent Authority, the Director on the
+by retaining Lien on his/her post or recommendation of the HAC.
+with Extraordinary Leave
+2 Vacation or Leave of All Types Full
+Period
+3 Deputation or Training Full
+Period
+4 | Proceeding elsewhere under approved | Full
+Exchange Program Period
+5 | Death of Allottee 12 The accommodation is
+Months | provided for bonafide use of
+the Dependant Members of the
+family of the deceased, only
+for their occupancy during the
+period.
+6 | Retirement or Superannuation 04 In case of Faculty Members and
+Months _ | Staff Members of the Institute
+re-hired after the date of
+superannuation, this period
+will be reckoned from the date
+of completion of such reappointment period.
+7 Resignation, Dismissal, Removal or 03 This period will be counted
+Termination of Service Months _ | from the date on which such
+action comes into force.
+(b) The allotment is cancelled under special circumstances by the Chairman, HAC, or is deemed
+to have been cancelled under a provision in these HARs;
+(c) The Employee surrenders the House; or
+(d) The Employee ceases to occupy the accommodation for period more than 3 months, unless
+permitted otherwise by the HAC.
+(2) An Employee, who has surrendered the House allotted to him/her while proceeding or during
+the period of leave/lien, may be allotted a House (if available) up to one month in advance of
+the expected date of his/her returning to duty in the Institute;
+(3) An Employee, at any time, may surrender a House allotted to him/her by giving a notice so as
+to reach the HAC at least one month before the date of the vacation of the residence. The
+11
+allotment of the House shall be deemed to be cancelled with effect from the 31st day after the
+day on which the letter is received by the HAC, or on the date specified in the letter, whichever
+is later. If the Employee fails to give due notice, he/she shall be responsible for payment of
+License Fee-cum-Rent for an additional 1 month from the date of vacating the House.
+1.4 Code of Conduct of Allotees
+(1)
+(2)
+(3) (4)
+(5)
+(8)
+The Allottees of the Houses shall be bound by the following Code of Conduct:
+The House is allotted to the Allottee only, which she/he can use for living by her/him and
+her/his family. Any other person is not allowed to reside in the house. The Allottee shall vacate
+the house, if she/he or his/her family is not staying in the house, the reason for which is duly
+approved by the Institute;
+The Allottee shall NOT
+(a) Sublet (either partly or fully) the house allotted to him/her, or use the same for any
+commerce, trade or business;
+(b) Exchange mutually the houses with another Allottee;
+(c) Undertake any alteration or addition to the structure of the house for any purpose
+(including for keeping a car, scooter or any other item). On the other hand, the Institute may
+undertake alterations and additions as it may deem necessary over time. In such cases, the
+Allottees shall cooperate with the persons undertaking such activities;
+(d) Undertake any civil, electrical or physical modifications, remove fixtures, or make any other
+kind of modification (including changing colours of external wall; and creating of roofs,
+structures, enclosures, shades and any such temporary / permanent installations);
+(e) Rear milk cattle or any other cattle, either within the house or outside it;
+(f) Tamper with the electric installations, water supply & sanitary fittings, or other fixtures
+made available in the house provided by the Institute;
+(g) Use electricity or water supplied to the house for any unauthorized purpose;
+(h) Encroach upon any public space or floor space of neighbours house for gardening or for any
+other purpose, either personal or professional;
+(i) Cut or trim trees in the premises of the allotted house or on the Campus, or plant any trees
+along the building line (even though soil cover may be available); and
+(j) Store any illegal, explosive or inflammable material in the house.
+If a complaint is received to this effect, and proved to be true, the matter will be treated as a
+serious offence. Also, the Allottee shall be liable for penal or disciplinary action, or even be
+liable to vacate the house within 1 month of the notification by the Institute;
+The Allottee shall pay regularly all charges due, as prescribed by the Institute from time to time;
+The house allotted is to the Allottee with a certain inventory of civil and electrical fixtures. Any
+breakage in the fixtures shall be replaced by the Institute only, but the costs incurred towards
+the same (including the service charges) shall be payable in full by the Allottee. The charges
+payable shall be deducted from the salary of the Allottee in the ensuring month(s);
+The Allottees can arrange to fix (at their own cost) air-conditioners in specific rooms of the
+house. Only Split-type Air-Conditioners shall be permissible and the external unit shall be placed
+only in the shaft provided for this purpose; the connecting wires & pipes from the interior unit to
+the exterior unit, drain pipe, shall pass only through the earmarked route. The Dish TV Antenna
+should be fixed only in the earmarked location of the building as per the direction of OIE;
+The Allottee shall report immediately to the Office of Infrastructure Engineering any defects in
+installations leading to wastage of water, or leakage of electricity, etc.;
+The Allottees shall conduct themselves in a courteous and polite manner with the neighbours. If
+any complaint is received on any Allottee (or a resident of the house provided to the Allottee)
+for being quarrelsome or indulging in objectionable activities (like entertaining undesirable
+characters, disorderly behavior, consuming liquour outside the house), appropriate disciplinary
+action by the Competent Authority (including cancellation of allotment of the house); and
+Any produce of the fruit or flower bearing trees on Campus shall be the property of the Institute.
+12
+Eligibility
+This chapter presents the criteria for allotment of houses on campus.
+2.1 Eligibility for a House on Campus
+The following persons shall be eligible for three types of house (Types A, B and C) available
+on Campus, as per entitlement:
+(1) Regular and Contract Employees of the Institute;
+(2) Visiting Faculty Members;
+(3) Scholars-in-Residence; Emeritus Fellows, Scientists and Professors; and Post-Doctoral Fellows;
+and
+(4) Employees on Deputation.
+Further:
+(1) If both a person and his/her spouse are Employees of the Institute, then only one of them shall be
+eligible for the allotment of house, based on their mutual choice regarding the type of house
+they are eligible for;
+(2) If an Employee is having a period less than one (01) year of service from the date of his
+superannuation, then he/she shall not be eligible to apply for another type of residence; and
+(3) All houses are chargeable; the Institute shall not allot rent free accommodation to any category
+of Employee.
+2.2 Eligibility of Employees Owning House
+An Employee shall be eligible for allotment of a house on campus, even if she/he is owning
+a house either in his/her own name or in the name of any member of his family in within the
+jurisdiction of Municipal Corporation of Jodhpur, Jodhpur Development Authority or of any Municipality
+adjoining the Karwad village.
+2.3 Condition of Allotment and Rules of Occupancy
+In addition to the provisions given in Chapter 1 of these HARs, the clauses given in this
+section shall be applicable related to allotment and occupancy.
+The Conditions of Allotment are:
+(1) The Allottee is a licensee and not a tenant. The Institute reserves the right to terminate the license
+at any time without assigning any reason. The intention of the parties to the license is that of
+creating a mere license and nothing more, and at no point of time can the Allottee claim to be
+the tenant of the premises allotted to him/her;
+13
+(2) No change of allotment of a house is permissible within the same category of housing on
+Campus; unless otherwise approved by HAC based on very genuine or health reasons;
+(3) When an Allottee is allotted a larger size house on Campus, the Allottee shall shift to the new
+accommodation within 15 days of due date of occupancy, failing which the new allotment shall
+be deemed to be cancelled. And, from the date he/she occupies the new accommodation, the
+older accommodation is deemed to be cancelled. If the Allottee fails to vacate within the
+stipulated period, the Allottee will be liable to pay Penal License Fee-cum-Rent, which is four times
+that of the older accommodation for a minimum period of one month, with effect from the date
+he/she took possession of the new accommodation, even if the Allottee is eligible for License
+Fee-cum-Rent free accommodation;
+(4) The Allottee who moves to the new house, shall give in writing in prescribed form (to the
+Chairman, HAC) the details of date of vacation of old house and the date of occupying the new
+house; and
+(5) At the time of taking possession of the accommodation, the list of inventory of fittings and
+fixtures in the allotted accommodation will be verified and signed by allottee in the book of
+inventory kept for that purpose with the Office of Infrastructure Engineering. He/she shall be
+responsible for damage of such items, except that which arises as a result of normal wear and
+tear; the damage shall be determined by the Engineer In-Charge of the Office of Infrastructure
+Engineering and approved by the Director, and the cost of damage shall be payable by the
+Allottee.
+The Rules of Occupancy are:
+(1) After an Allottee vacates a house, the Secretary, HAC, shall arrange to perform the maintenance
+works and colouring in the house, and then declare the house fit for occupation. The HAC shall
+float the house only after the declaration is received;
+(2) An Allottee shall give in writing his acceptance of the allotment within seven (07) days from the
+date of receipt of the letter of allotment, failing which the allotment stands cancelled. The
+Chairman, HAC, may condone delay in giving letter of acceptance, which must be submitted
+before the allotment is cancelled;
+(3) The date on which the Letter of Allotment is sent by eMail to the Allottee shall be considered as
+the date of receipt of the same;
+(4) The Allottee, who accepts the allotment, shall take possession of the allotted accommodation
+within 15 days from the date of receipt of the allotment letter, failing which the allotment shall
+stand cancelled on the 17 day, and he shall be charged License Fee-cum-Rent for a period of
+entire full month in addition to that for the House in which he/she is residing. The Chairman,
+HAG, shall be empowered to grant extension of the period of taking possession, where the
+Allottee is out of station on official duty. In such cases, the maximum period of extension shall be
+the number of days the Employee was out of station on official duty during the seven day period
+mentioned above;
+(5) If an Employee rejects the allotment in writing, does not communicate his/her acceptance, or it
+is deemed cancelled under these HARs, the Allottee shall not be eligible for consideration for
+another allotment for one year from the date on which the current allotment is made. In such a
+case, he/she shall be charged flat penal License Fee-cum-Rent for a period of one month for the
+house allotted;
+(6) An Allottee, who takes possession of a house, cannot surrender the same and seek the older
+house; and
+(7) The Allottee shall:
+(a) Report immediately to the Medical Officer of the Primary Health Center of the Institute about
+contagious disease contacted by any member of the family in the house and shall take all
+precautions as advised by the Medical Officer of the Institute;
+(b) Keep the allotted house and its premises in hygienic and safe conditions at all times;
+(c) Park motorized vehicles only in the formally allotted parking space for the respective house,
+and non-motorized vehicles only in the designated space adjoining the building of the
+house;
+14
+(d) Allow persons authorized by the Engineer In-Charge of the Office of Infrastructure Engineering
+(including the employees of Contractors) to access to the house during 08:00-18:00 hours
+(unless emergencies require access at other times beyond these hours), for the purpose of
+carrying out repairs to the water-supply, sanitary installations, electrical fittings, and
+fixtures (including furniture in select cases) in the house, as an when considered necessary;
+(e) Report to the Office of Infrastructure Engineering, any damage or any defect in the building,
+fittings & fixtures, or installations, immediately on noticing the same for necessary action;
+and
+(f) Allow the Security Officer of the Institute, the Medical Officer of the Primary Health Center,
+Officers of Sanitation and Public Health of the Institute, to visit the allotted house during
+08:00-18:00 hours (unless emergencies require access at other times beyond these hours). The
+Allottee shall receive instructions to the on matters of official work of their respective Offices
+and comply with the same;
+(8) The Allottee shall NOT:
+(a) Commit any act of nuisance or annoyance to any adjoining or neighboring the Allottee; and
+(b) Use the house for immoral or illegal activities.
+In all cases mentioned above, if the due date falls on a holiday, the immediate next working day will
+be the due date for all purposes;
+2.4 Seniority and Eligibility Criteria
+For the purposes of allotment of a house, the seniority of the applicants from among the
+Employees shall be determined by applying the criteria given below in serial order:
+(1) A particular house can be allotted only to a person, who meets the GP/ AGP requirements stated
+in Section 1.1 of these HARs; those with lower GP/ AGP (who do not meet this requirement)
+cannot be allotted a house, even if there is no applicant from the entitled GP/ AGP; and
+(2) Applicants shall be placed on a list in the order of their:
+(a) Grade Pay or Academic Grade Pay; persons with higher GP/ AGP shall be senior to those with
+lower GP/AGP, irrespective of their Basic Pay as on the date of announcement of
+availability of the house;
+(b) Effective Date of Joining a post (appointed either directly or through promotion) or date of
+receiving the Grade Pay or Academic Grade Pay; persons with earlier date of joining shall be
+placed above those with latter date;
+(c) Personal File Number; persons with smaller PF Number shall be placed above those with
+larger PF Number;
+(d) Date of Joining the first post at the Institute (as a Visiting Faculty Member, a Faculty Member on
+contract or probation, or as a Staff Member on contract or probation); persons who joined
+earlier shall be placed above those who joined later.
+The HAC shall prepare the Seniority List using details provided in the Application Form
+submitted by the employees to the HAC after due verification from office of establishment, and
+display the same along with the announcement for each category of vacant houses.
+In case an Employee refuses allotment of a house on or before the deadline of acceptance or
+rejection, the next person on the Seniority List shall be offered the house; the process will be
+repeated till the entire Seniority List is exhausted.
+15
+16
+3.
+Process
+This chapter presents the criteria for allotment of houses on Campus.
+3-1 Normal Allotment
+The normal process of allotment of houses shall be as below:
+(1) Preparing the Vacant Houses
+Once a house is vacated by an Employee, the Office of Infrastructure Engineering shall
+undertake necessary repairs of civil & electrical infrastructure, painting and needed security
+related repairs. This shall be done on priority, within a maximum period of 1 month. Once the
+above works are completed, the Engineer In-Charge of the Office of Infrastructure Engineering shall
+communicate that the said house is ready for occupation.
+(2) Announcement of Vacant Houses
+The HAC shall make an eMail announcement of houses fallen vacant and ready for
+allotment; it shall attach the Application Form for the same.
+(3) Receipt of Applications
+Employees desirous of seeking a house on Campus shall apply by submitting a hard copy of
+the Application Form (circulated eMail) indicating their preferences on or before the last date
+indicated in the announcement. Employees shall place only those houses on the application,
+which will be acceptable, if allotted.
+(4) Preparation of Seniority List
+The HAC shall prepare the Seniority List as per Section 2.4 of these HARs.
+(5) Approvals for Allotment and Wait List
+After the last date for filing the application for house allotment, the Secretary, HAC, shall
+prepare a draft List of Allotment, along with a sufficient Wait List. Shortly, a meeting of the HAC
+shall be held to discuss the same, and finalize the allotment.
+(6) Allotment Order
+After the meeting, the List of Allotment shall be prepared incorporating the inputs received
+during the meeting. The Chairman, HAC, shall approve the same on behalf of the HAC, and the
+Secretary, HAC, shall issue the Letters of Allotment in the prescribed format in duplicate to the
+potential Allottees;
+17
+(7) Acceptance
+The Allottees shall return one copy of the duly signed copy of the Letter of Allotment
+confirming her/his acceptance, within 7 days from the date of receipt of the Letter of Allotment,
+and take possession of the house within 15 days from the date of receipt of the Letter of
+Allotment.
+3.2 Out-of-Turn Allotment
+The Director, suo moto, may allot 10% houses under his discretionary quota to any eligible
+Employee of the Institute, or to meet the operational requirements of the Institute as may arise from
+time to time; and freeze the allotment of a house or a group of houses in anticipation of joining of
+new Faculty Members and Senior Officers of the Non-teaching Academic, Technical & Administrative
+Cadres.
+Employees can also request for allotment of house under Director’s Discretionary Quota, by
+filing an application through proper channel. The HAC will examine such requests forwarded by
+the Heads of Departments and the Highest Officers in charge of Non-teaching Academic, Technical &
+Administrative Cadres; the Chairman, HAC, shall make specific recommendations, to the Director.
+Further, the HAC may recommend Out-of-Turn Allotment under the special circumstances
+under these rules and sent for the further approval of the Director. The basis of the recommendation
+of the HAC shall be as below:
+“The highest priority shall be assigned to functionaries, who discharge statutory responsibilities
+and who are required to provide essential services round-the-clock. If type of houses is not
+available immediately, which these functionaries are eligibility for, they shall be allotted the
+available type of house. Subsequently, they can move to the type of house which they are
+eligible for.”
+3.3 Forfeiture of Allotment
+A house, once allotted, shall be occupied by the Allottee in the as is condition, within 15 days
+from the date of receipt of the Letter of Allotment, after duly vacating the previous house in which
+he/she was residing. Failure to occupy the allotted house within the stipulated time shall result in
+the automatic cancellation of the allotment. Further, the Allottee shall be debarred from applying for
+any Institute residence for the next one year, excepting for transit accommodation.
+3.4 Rejection of Allotment
+If an Employee fails to accept the allotment of a residence within 07 days or fails to take
+possession of that residence after acceptance within 15 days from the date of receipt of the Letter of
+Allotment, he/she shall not be eligible for another allotment for one year from the date of the Letter
+of Allotment.
+3.5 Allotment to Employees Married to each other
+The following norms apply to the Employee couples seeking a house on Campus:
+(1) Only one of them, either the husband or the wife, shall be allotted the house, provided that they
+are residing separately in pursuance of a valid order of judicial separation made by any Court;
+(2) During the process of allotment, the applications by a husband and wife pair shall be considered
+independently for allotment of houses;
+(3) When two Employees, who are occupying separate houses duly allotted to each of them, decide
+to get married to each other, they shall surrender one of the houses within one month of the
+marriage. And, when one of the houses is not surrendered, the allotment of the house of the
+lower type shall be deemed to have been cancelled on the expiry of the said period, and if the
+18
+two houses are of the same type, the allotment of one of these quarters, as the HAC may decide,
+shall be deemed to have been cancelled on the expiry of such period;
+19
+20
+4.
+Special Situations
+This chapter presents the treatment of special situations with regard to allotment of houses
+on Campus.
+4.1 Exemption of License Fee - cum - Rent
+Normally, no employee of the Institute shall be provided any house free of charge. Also, the
+house provided on the Campus shall be unfurnished and without any concession to the due License Fee
+- cum - Rent to be paid by the Employee as per their eligibility. Any departure from this Rule shall
+be duly approved by the Director.
+4.2 Relaxation of Rules
+The said rules may be relaxed in the following three cases:
+(1) Temporary allotment of house(s) for purposes of marriage of the Members of the family of
+Employees of the Institute;
+(2) Allotment of houses to Officers who are differently-abled; and
+(3) Allotment of houses for the purpose of medical emergencies.
+In the above cases, the Institute may be guided by the relevant norms of the Government of India.
+The Director shall approve such relaxations on the recommendation of the HAC.
+21
+22
+5.
+Maintenance
+This chapter presents matters related to the maintenance of houses on Campus.
+5.1 Upkeep and Cleanliness
+The following are the conditions that need to be adhered to by the Allottees:
+(1) Once a house is allotted to an Employee, the responsibility for upkeep, maintenance and
+cleanliness of the house and its premises lies only with the Allottee;
+(2) The Allottee shall take prior permission of the Institute for any structural modification required
+to be made towards fixing and maintaining air-conditioners, water coolers, electrical appliances
+or apparatus (which may require making holes, channels and ducts through the walls of the
+house). The request seeking permission shall be sent to the Engineer In-Charge of the Office of
+Infrastructure Engineering, at least one month before the work needs to begin, if permitted;
+(3) The Institute may consider requests for replacing small electrical items (at no charge to the
+Allottee), subject to the same being rendered dysfunctional by the regular use of the same, as
+declared by the Engineer In-Charge of the Office of Infrastructure Engineering;
+(4) The Allottees shall pay charges levied by the Institute from time to time, towards upkeep and
+cleaning of:
+(a) Common facilities and common areas adjoining the house; and
+(b) Facilities towards lifts, lighting and any other common services made available in common
+areas; and
+(5) The Allottees shall attract penal charges for dropping of garbage out of the collection bins
+provided for the purpose, not segregating the garbage as advised, and littering the premises; in
+extreme cases, the Institute may consider initiating penal action.
+5.2 Alterations and Modifications
+The Institute shall NOT approve any alterations and modifications, creation of windows
+spaces, etc., that are in violation of the approved Campus Master Plan. Also, no Allottee shall make
+any change herself/himself to the house (its structure, its finishes, or its civil, electrical &
+mechanical fixtures).
+In exceptional cases, subject to valid justification and recommended Engineer In-Charge of the
+Office of Infrastructure Engineering of the Institute, the Institute may authorize the Allottee in writing
+to undertake small modifications inside the house, which may make the building structurally
+unsafe, deform the buildings, cause seepage, result in short circuiting, deface the exterior of the
+buildings. These acts of jeopardising the overall safety, durability, facade and functionality of the
+building, and affecting the comfort of neighbouring residents, shall be grounds for the Institute to
+take penal action.
+23
+Limited amount of modifications, like fixing coolers, air conditioners, and water heaters,
+which require involving casing and capping, cutting of the wall, creation of ducts and channels,
+shall be arranged by the Institute, as a onetime exercise at the time of allotment of the house, but
+before occupying the same.
+24
+6.
+Violations
+This chapter presents matters related to the Violations by the Allottees of houses on
+Campus.
+6.1 Overstay
+Any overstay shall not be permitted in the house beyond the permitted duration. Any
+unauthorised overstay in the house shall attract levying of higher rate of License Fee-cum-Rent and
+penal charges as below:
+(1) After an allotment has been cancelled or is deemed to be cancelled under any provisions
+contained in these HARs, where the house remains or had remained in occupation of the
+Allottee or of any person claiming through him/her, such Employee shall be liable to pay
+damages for use and occupation of the residence, services and furniture, of four times all charges
+he/she was paying;
+In the event of death of the Allottee, his/her family may be permitted by the Institute under
+exceptional circumstance to retain the house for a further period of 9 months over and above the
+normal concessional period of retention (of 3 months) on payment of twice all charges payable
+for up to a maximum of 9 months. This extended period of retention shall not be admissible,
+when a dependant of the deceased Employee owns a house anywhere in the country; and
+When an Allottee:
+(a) Sublets/shares unauthorizedly the house, wholly or partly;
+(b) Charges License Fee-cum-Rent from the Employee sharing the house at a rate which is
+considered excessive;
+(c) Creates any unauthorized structure in any part of the residence;
+(d) Uses the house or a part of it for any purpose other than for which it is meant;
+(e) Tampers with the electrical, civil or water connections and meters;
+(f) Fixes the DTH TV antenna at locations other than the designated ones;
+(g) Commits any other breach of rules or violates any of the Terms & Conditions of allotment;
+(h) Conducts him/herself in a manner which is prejudicial to the maintenance of harmonious
+relations with the neighbors; or
+(i) Has knowingly furnished incorrect information in any application or false written
+statements with a view to securing the allotment;
+the Institute without prejudice to any other disciplinary action that may be taken against
+him/her, cancel the allotment of the residence. For the purpose of this sub-rule, the term
+Employee includes, unless the context otherwise requires, himself/herself, a member of his/her
+family, or any person claiming through him/her.
+25
+Where action to cancel the allotment is taken on account of unauthorized sub-letting or
+unauthorized sharing of the house by the Allottee, the HAC can take a decision on merit of the case,
+and further refer the case, if required, to the Housing Allotment Disciplinary Committee (HADAC) as
+per the provisions given in Chapter 6.6 of these HARs.
+6.2 Unauthorized occupation
+A person residing in a house or occupying a garage allotted with the house shall be deemed
+to be unauthorized occupant, under any one, or the following circumstances:
+(1) The house, garage or both are occupied without allotment;
+(2) The Allottee has violated of any of the Code of Conduct specified in these HARs;
+(3) A duly allotted house is retained beyond the allotted period without prior permission, or if the
+permission is refused; and
+(4) Penal License Fee-cum-Rent, wherever applicable, is not paid.
+On a complaint received against any occupant regarding violation under these rules, the
+occupant will be served a notice to offer his/her comments in writing on the complaint within
+seven (07) days from the receipt of such notice. Also punitive actions may be taken after serving a
+Show Cause Notice to be replied within seven (07) days from the receipt of such notice, in case of
+unsatisfactory reasons or response.
+A person declared to be an unauthorised occupant shall be liable to punitive action specified
+under these rules, besides any disciplinary action as per the Institute Statutes/Rules applicable in
+case of Institute Employees:
+(1) If the person declared an unauthorised occupant, is not an Institute Employee, the Institute shall
+take action as per prevalent law with the appropriate municipal & judicial authorities vested
+under Public Premises (Eviction of Unauthorized Occupants) Act 1971; and
+(2) If the person, to whom the residence (or a part of it) is sublet, is also an Institute Employee,
+he/she would be liable to disciplinary action as per Rules of the Institute. In addition, punitive
+action under these rules may also be taken against such persons.
+For the purposes of these HARs, the service of notice shall be deemed to be sufficient for all
+purposes, if it is sent by eMail, once under registered post or issued by hand on the address of the
+house concerned.
+Such complaint along with the comments or replies, if any, made by the concerned
+occupant, shall be referred to the HAC. After considering the complaints and the comments, if any,
+the HAC may drop the complaint, if satisfied with the comments or replies. But, if the HAC is not
+satisfied with such comments or replies, then it shall refer the same to the Housing Allotment
+Disciplinary Committee (HADAC) for an enquiry. If the HADAC finds the complaint to be valid and
+the comments unconvincing for reasons to be recorded, then the person concerned shall be given a
+notice to vacate the premises within 15 days from the date of such notice. In such a case, the said
+occupant shall be liable to all punitive actions as provided for under unauthorized occupation
+under these rules.
+For violating rules of the Code of Conduct, the Allottee will tender him/herself liable to
+disciplinary action as per Rules of the Institute, in addition to other punitive actions provided under
+these HARs or any other law in force in the country.
+26
+6.3 Breach of Rules and Conditions
+The HAC may, without prejudice to any other disciplinary action that may be taken against
+him/her, cancel the allotment of the residence, if an Allottee:
+(1) Sublets the house unauthorisedly, charges License Fee-cum-Rent from the other Employee
+sharing the house,
+(2) Erects any unauthorized structure in any part of the house,
+(3) Uses the residence or any portion thereof for purposes other than that for which it is meant,
+(4) Tampers with the electricity or water connection,
+(5) Commits any other breach of rules or other Terms & Conditions of the allotment,
+(6) Uses the house or garage or permits or offers it to be used for any purposes, which the HAC
+considers to be improper,
+(7) Conducts him/herself in a manner which, in his/her opinion, is prejudicial to the maintenance
+of harmonious relations with his/her neighbors,
+(8) Conducts him/herself in such a manner as to disturb peace in the residential zone or campus in
+any manner or utilizes or cause to be utilized common facilities for unauthorised purposes (such
+as parties without the consent of Engineer In-Charge of the Office of Infrastructure Engineering),
+(9) Has knowingly furnished incorrect information in any application or written statement with a
+view to securing the allotment.
+Further:
+(1) If an Allottee sublets a residence allotted to him/her or any portion thereof or any of the
+outhouses, garages or stables appurtenant thereto in contravention of these rules, he may,
+without prejudice to any other action that may be taken against him/her, be charged such
+damages from the date of cancellation of allotment as may be fixed by the Institute from time to
+time in this respect;
+(2) Where action to cancel the allotment is taken on account of sub-letting of the house by the
+Allottee, a period of 7 days shall be allowed to the Allottee, and any other person residing with
+him/her therein to vacate the premises. The allotment shall be cancelled with effect from the
+date of vacation of the premises or expiry of the period of 7 days from the date of the orders for
+the cancellation of the allotment, whichever is earlier;
+(3) Where the allotment of a residence is cancelled for conduct prejudicial to the maintenance of
+harmonious relationship with neighbors, the Allottee, at the discretion of the HAC, may be
+allotted another residence in the same class at any other place;
+(4) The HAC shall be competent to take all or any of the actions under these rules, and also to
+declare the Allottee ineligible for allotment of a house for the remaining period of his/her
+service, and the HAC shall intimate the Competent Authority for initiating disciplinary
+proceedings for major penalty under the relevant rules;
+(5) Where any penalty under this rule is imposed by the HAC, the aggrieved Employee, may,
+within thirty (30) days of receipt of the orders by him/her, file a representation to the Head of
+Department concerned; such persons shall be heard in person on the date intimated by the
+concerned Competent Authority or by the Housing Allotment Disciplinary Action Committee
+(HADAC) in such orders. And, the original order imposing the penalty shall stand, unless it is
+modified or rescinded by the Competent Authority as a result of the representation.
+6.4 Punitive Actions
+The HADAC on conducting an enquiry can recommend for suitable punitive action for
+unauthorized occupation or violation of general Code of Conduct applicable to the Employees under
+these rules as follows:
+(1) An unauthorized occupant will be liable to eviction by the HAC under Section 3 of the Public
+Premises (Eviction of unauthorized occupants) Act 1971(Act No. 49 of 1971);
+(2) For the period of unauthorized occupation, the person will be charged penal License Fee-cumRent, which will be as per the norms laid down by the Institute from time to time. Such penal
+License Fee-cum-Rent shall, for all purposes, be deemed to be a charge on the salary. The
+27
+Institute shall be entitled to deduct or set-off such penal License Fee-cum-Rent from Pension or
+any other amount due to the Employees due to him/her; and
+(3) The Institute may disconnect the electricity, water and/ or Institute telephone, (if any provided
+in the concerned premises) at any time after the service of 15 days’ notice as provided under
+these rules; and
+(4) In addition to the provisions in these rules, the Competent Authority may take disciplinary action
+in accordance with the relevant statues, rules and laws enacted by the Parliament of India.
+6.5 Sub-letting
+No Employee shall sublet the whole or part of the house allotted to him/her.
+But, an Allottee proceeding on leave may accommodate in the house any other Employee
+(who is not allotted a house on campus) as a Caretaker, for the duration of the retention period as
+specified in these rules, but not exceeding six months in any case, unless explicitly approved by the
+Competent Authority with prior permission of the Engineer In-Charge of the Office of Infrastructure
+Engineering. Further, during this period, the Allottee shall remain personally responsible for any
+License Fee-cum-Rent payable in respect of the house and for any damage caused to the house or its
+precincts (and grounds or services) provided therein by Institute beyond fair wear and tear.
+6.6 Housing Allotment Disciplinary Action Committee
+The complaints related to unauthorised occupation and violation of general Code of Conduct
+by the Allottee of the house on campus should be referred to the following Housing Allotment
+Disciplinary Action Committee (HADAC):
+(1) Coordinator (Faculty) : Chairman
+(2) Chairman (HAC) : Member
+(3) Security Officer : Member
+(4) Registrar : Member-Secretary
+The Committee will be a Standing Committee of the Institute.
+The Terms & Conditions of the Committee are:
+(1) The Committee should meet immediately on receiving the complaint on unauthorised
+occupation of the house on campus, and on violation of general Code of Conduct applicable to the
+Employees, and examine the same in the light of the charges made, notices issued by the HAC,
+the custodian of the house and the responses received from the unauthorised persons resorting
+to violation of general Code of Conduct;
+(2) The Committee shall conduct an enquiry summoning the delinquent to depose and make
+suitable recommendations in accordance with the Institute rules or The Public Premises (Eviction
+of unauthorized occupants) Act 1971, if found guilty; and
+(3) The Committee shall submit its report along with its recommendations for disciplinary action,
+including eviction of the premises as per law in force.
+28
+/.
+Resolution of Matters
+This chapter presents matters related to the Resolution of Matters in case of allotment of
+houses on Campus.
+7-1 Appellate Authority
+The Director of IIT Jodhpur, will be the Appellate Authority for all purposes on the decisions
+of the HAC, in case of any grievance arising out of the implementation and interpretation of these
+rules. The decisions pronounced by the Director shall remain final and binding.
+7.2 Rules, Procedures and Matters not covered
+All rules and procedures and disciplinary provisions applicable in respect of Government of
+India owned public premises shall be applicable in respect of IIT Jodhpur employees and persons
+for utilising the official residences and premises of IIT Jodhpur also, wherever specific rules are not
+framed. 
